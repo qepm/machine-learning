@@ -56,31 +56,6 @@ Features include:
 - geo_city
 - device_screen_resolution
 
----
-
-# Model Training
-
-The model is trained using the CatBoost algorithm.
-
-Features include:
-
-- visit_number
-- visit_hour
-- visit_dayofweek
-- visit_month
-- is_returning_user
-- utm_source
-- utm_medium
-- utm_campaign
-- utm_adcontent
-- utm_keyword
-- device_category
-- device_os
-- device_brand
-- device_browser
-- geo_city
-- device_screen_resolution
-
 The target variable is: sub_submit_success
 
 
